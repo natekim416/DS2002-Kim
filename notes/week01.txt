@@ -3,3 +3,6 @@ What is GitHub?
 
 Why are we using it in this course?
 - Like I said earlier, Github is like google docs. So we're able to neatly store all of our assignments and labs while being able to collab with the professor and each other
+
+What confused you most about GitHub so far?
+- I've used it before, but I accidentally commited the lab folder with the wrong name........
