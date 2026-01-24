@@ -1,2 +1,4 @@
-# DS2002-Kim
-Private DS2002 coursework repository
+Name: Nate Kim
+Course: DS2002 — Data Science Systems
+
+This repository contains my labs, notebooks, and assignments for DS2002.
