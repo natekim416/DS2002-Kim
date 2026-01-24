@@ -1,0 +1,5 @@
+What is GitHub?
+- Centralized workflow version control system where developers (mostly) can come together and work on a project. I think it's similar to google docs except it's slightly more complicated.
+
+Why are we using it in this course?
+- Like I said earlier, Github is like google docs. So we're able to neatly store all of our assignments and labs while being able to collab with the professor and each other
